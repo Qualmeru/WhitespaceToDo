@@ -3,11 +3,12 @@
 This is how you configure WhitespaceToDo to work
 - You will need first is npm -> https://nodejs.org/en/
 - Then you will need gulp for that you can type: "npm install --global gulp-cli" in your console
-
+```
 	> Download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory
 	> cd WhitespaceToDo
 	> npm install
 	> gulp
+```
 
 
 I desided to go with react for client-side code and firebase for storage, i also used bootsrap for design.
