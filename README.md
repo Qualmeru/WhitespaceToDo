@@ -18,7 +18,7 @@ The things that i am most proud of is:
 - When you edit the input on a item it adds two buttons for the save and undo functions and is not there all the time.
 - As soon as you add something it is added to all browsers.
 - The code is simple and easy to understand.
-- ou do not have to write any backside code with firebase, you can change to any other firebase page and everything will just work.
+- You do not have to write any backside code with firebase, you can change to any other firebase page and everything will just work.
 
 
 
