@@ -15,7 +15,11 @@ I desided to go with react for client-side code and firebase for storage, i also
 The things that i am most proud of is:
 It is easy to use. You can use the enter key on you keybord to add and save items.
 I did it easy to add items on startup with the focus keyword.
+<<<<<<< HEAD
 When you edit the input on a item it adds two buttons for the save and undo functions and is not there all the time.
+=======
+When you edit the input on a item it adds too buttons for the save and undo functions and is not there all the time.
+>>>>>>> 88db0c47c9acd0b3c2dd162e4194f4e50d21a136
 As soon as you add something it is added to all browsers.
 The code is simple and easy to understand.
 You do not have to write any backside code with firebase, you can change to any other firebase page and everything will just work.
